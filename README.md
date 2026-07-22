@@ -1,2 +1,2 @@
-# nj-catering
+# NJ-catering
 NJ Catering
